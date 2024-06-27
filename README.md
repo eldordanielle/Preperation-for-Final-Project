@@ -6,10 +6,15 @@ In this repository we use LLMs on user-post datasets to predict possible connect
 
 [- blog authorship corpus
 ](url)
+
 [- COVID19 tweets
 ](url)
+
 [- book-crossing: user review rating](url)
+
 [- the social dilemma tweets
 ](url)
+
 [- covid vaccine tweets](url)
+
 [- post recommendation dataset](url)
