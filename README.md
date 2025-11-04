@@ -9,6 +9,12 @@ This project explores optimizing friend recommendation systems on social media p
 - Danielle Eldor
 - Guy Kalati
 
+<p align="center">
+  <img src="https://files.oaiusercontent.com/file_000000000a0c720cb078a1656399913b?table=block&spaceId=&id=&userId=&appId=" 
+       alt="Enhancing Social Media Friend Recommendations Project Banner" 
+       width="800">
+</p>
+
 ## Problem Definition
 The project aims to solve the optimization of friend recommendation systems on social media platforms by creating a more comprehensive user similarity metric to enhance friend recommendation algorithms based on users' common denominators, specifically through analysis of their post content.
 
